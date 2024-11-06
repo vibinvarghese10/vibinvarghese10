@@ -3616,6 +3616,12 @@ html[data-useragent*='rv:11.0'] .ss-go-top::after {
 }
 
 /*# sourceMappingURL=main.css.map */
+.logo-text {
+  font-weight: bold;
+  color: white;
+  font-size: 24px; /* Adjust size as needed */
+  text-decoration: none;
+}
 
 
 .about-me {
